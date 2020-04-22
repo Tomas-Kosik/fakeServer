@@ -1,0 +1,12 @@
+{
+    "images": [
+        {
+            id: 1,
+            "src": "https://source.unsplash.com/random"
+        },
+        {
+            id: 2,
+            "src": "https://source.unsplash.com/random"
+        }
+    ]
+}
