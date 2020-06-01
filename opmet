@@ -28,6 +28,19 @@
       "stationId": "LKPR",
       "text": "LKPR 151100Z 23007KT 9999 BKN017 16/12 Q1002 NOSIG=",
       "textHTML": "LKPR 151100Z 23007KT 9999 <font color=\"white\">BKN017</font> 16/12 Q1002 NOSIG="
+    },
+    {
+      "placeId": "icao:LKPR",
+      "queryType": "TAF",
+      "receptionTime": "2016-06-15T11:03:10.171Z",
+      "refs": [
+        "briefing01"
+      ],
+      "reportTime": "2016-06-15T11:00:00Z",
+      "reportType": "MSG_METAR",
+      "stationId": "LKPR",
+      "text": "LKPR 151100Z 23007KT 9999 BKN017 16/12 Q1002 NOSIG=",
+      "textHTML": "LKPR 151100Z 23007KT 9999 <font color=\"white\">BKN017</font> 16/12 Q1002 NOSIG="
     }
   ]
 }
